@@ -62,3 +62,6 @@ The deployment process is configured via [deploy.yml](file:///Users/jaydev/Proje
 1. Installs Node.js dependencies.
 2. Builds the static production assets (`dist/`).
 3. Uploads and deploys the build folder to GitHub Pages.
+
+---
+<sub>Last updated: 2026</sub>
